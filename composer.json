@@ -1,0 +1,13 @@
+{
+  "name": "datracka/wordpress-importer",
+  "type": "wordpress-plugin",
+  "package": {
+    "source": {
+      "url": "git@github.com:datracka/wordpress-importer.git",
+      "type": "git"
+    },
+    "require": {
+      "composer/installers": "~1.0.6"
+    }
+  }
+}
